@@ -7,7 +7,7 @@ I made this project in one day to refresh my python syntax knowledge. Enjoy!
 ## Usage
 To run, use: 
 ```
-python3 main.py
+uv run main.py
 ```
 
 ## Controls
